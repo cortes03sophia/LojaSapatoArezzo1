@@ -1,0 +1,23 @@
+header {
+    font-size: x-large;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+input {
+    height: 24px;
+    width: 400px;
+    border: color(srgb rgb(90, 90, 90) rgb(85, 88, 85) rgb(93, 93, 95));
+    border-radius: 4px;
+
+}
+
+
+button {
+    height: 38px;
+    width: 100px;
+    border: color(srgb rgb(90, 90, 90) rgb(85, 88, 85) rgb(93, 93, 95));
+    border-radius: 4px;
+}
